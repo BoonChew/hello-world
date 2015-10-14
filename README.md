@@ -1,2 +1,6 @@
-# hello-world
-This is a testing repository
+hello-world
+===========
+
+Hi Humans!
+
+Hubot here, I like Node.js and Coffeescript (that's what I'm made of!).
